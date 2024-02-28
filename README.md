@@ -15,4 +15,4 @@ git clone https://github.com/ZeroFire42/Brute
 
 cd Brute
 
-python mak.py
+python Simple.py
